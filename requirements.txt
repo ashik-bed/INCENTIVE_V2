@@ -1,11 +1,11 @@
-# Streamlit for UI
+# Streamlit UI
 streamlit==1.51.0
-
-# Pandas for data handling
-pandas==2.3.5
 
 # NumPy compatible with Python 3.13
 numpy==1.27.4
+
+# Pandas compatible with numpy 1.27.x and Python 3.13
+pandas==2.3.4
 
 # Excel support
 openpyxl
